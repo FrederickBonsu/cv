@@ -1,0 +1,9 @@
+img {
+  vertical-align: middle;
+  width: 270px;
+  height: 270px;
+  border-radius: 50%;
+}
+body{
+  background-color: #EEF2F4;
+}
